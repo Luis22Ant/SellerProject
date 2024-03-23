@@ -44,7 +44,6 @@ C:\Users\Elton Oliveira\Source\Repos\Luis22Ant\SellerProject\SalesWebApp\bin\Deb
 C:\Users\Elton Oliveira\Source\Repos\Luis22Ant\SellerProject\SalesWebApp\bin\Debug\netcoreapp2.1\SalesWebApp.pdb
 C:\Users\Elton Oliveira\Source\Repos\Luis22Ant\SellerProject\SalesWebApp\bin\Debug\netcoreapp2.1\SalesWebApp.Views.dll
 C:\Users\Elton Oliveira\Source\Repos\Luis22Ant\SellerProject\SalesWebApp\bin\Debug\netcoreapp2.1\SalesWebApp.Views.pdb
-C:\Users\Elton Oliveira\Source\Repos\Luis22Ant\SellerProject\SalesWebApp\obj\Debug\netcoreapp2.1\SalesWebApp.csproj.AssemblyReference.cache
 C:\Users\Elton Oliveira\Source\Repos\Luis22Ant\SellerProject\SalesWebApp\obj\Debug\netcoreapp2.1\SalesWebApp.csproj.CoreCompileInputs.cache
 C:\Users\Elton Oliveira\Source\Repos\Luis22Ant\SellerProject\SalesWebApp\obj\Debug\netcoreapp2.1\SalesWebApp.RazorAssemblyInfo.cache
 C:\Users\Elton Oliveira\Source\Repos\Luis22Ant\SellerProject\SalesWebApp\obj\Debug\netcoreapp2.1\SalesWebApp.RazorAssemblyInfo.cs
