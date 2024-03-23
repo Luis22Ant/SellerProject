@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\SalesWebApp",
+    "\\SalesWebApp\\Services"
   ],
-  "SelectedNode": "\\SalesWebApp.sln",
+  "SelectedNode": "\\SalesWebApp\\Services\\SellerService.cs",
   "PreviewInSolutionExplorer": false
 }
