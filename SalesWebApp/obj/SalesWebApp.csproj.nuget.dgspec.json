@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Elton Oliveira\\Source\\Repos\\Luis22Ant\\SellerProject\\SalesWebApp\\SalesWebApp.csproj": {}
+    "C:\\Users\\Elton Oliveira\\Desktop\\ProjetoCRUD\\SalesWebApp\\SalesWebApp\\SalesWebApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Elton Oliveira\\Source\\Repos\\Luis22Ant\\SellerProject\\SalesWebApp\\SalesWebApp.csproj": {
+    "C:\\Users\\Elton Oliveira\\Desktop\\ProjetoCRUD\\SalesWebApp\\SalesWebApp\\SalesWebApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Elton Oliveira\\Source\\Repos\\Luis22Ant\\SellerProject\\SalesWebApp\\SalesWebApp.csproj",
+        "projectUniqueName": "C:\\Users\\Elton Oliveira\\Desktop\\ProjetoCRUD\\SalesWebApp\\SalesWebApp\\SalesWebApp.csproj",
         "projectName": "SalesWebApp",
-        "projectPath": "C:\\Users\\Elton Oliveira\\Source\\Repos\\Luis22Ant\\SellerProject\\SalesWebApp\\SalesWebApp.csproj",
+        "projectPath": "C:\\Users\\Elton Oliveira\\Desktop\\ProjetoCRUD\\SalesWebApp\\SalesWebApp\\SalesWebApp.csproj",
         "packagesPath": "C:\\Users\\Elton Oliveira\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Elton Oliveira\\Source\\Repos\\Luis22Ant\\SellerProject\\SalesWebApp\\obj\\",
+        "outputPath": "C:\\Users\\Elton Oliveira\\Desktop\\ProjetoCRUD\\SalesWebApp\\SalesWebApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
