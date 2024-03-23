@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XNcrgFoq1jCUX1Ff4YdiiefB1xDGt7AtQLBzSL/a81MXHerVcj1cUoHp0S2s4sXtz57ozlTdbBpwip1fJcmI2g==",
+  "dgSpecHash": "1a3UawcBNv2hRTJM/mv0GxE8/0CMfvApQjdT3C9pNCtK+er2sT9HQpKxFEg04kbYKqBVFuFvRLDk0zbrkcsQoA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Elton Oliveira\\Desktop\\ProjetoCRUD\\SalesWebApp\\SalesWebApp\\SalesWebApp.csproj",
+  "projectFilePath": "C:\\Users\\Elton Oliveira\\Source\\Repos\\Luis22Ant\\SellerProject\\SalesWebApp\\SalesWebApp.csproj",
   "expectedPackageFiles": [
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.aspnet.webapi.client\\5.2.6\\microsoft.aspnet.webapi.client.5.2.6.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.aspnetcore\\2.1.1\\microsoft.aspnetcore.2.1.1.nupkg.sha512",
