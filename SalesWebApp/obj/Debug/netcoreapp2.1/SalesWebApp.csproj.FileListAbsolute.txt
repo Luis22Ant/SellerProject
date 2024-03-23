@@ -76,3 +76,4 @@ C:\Users\Elton Oliveira\Source\Repos\Luis22Ant\SellerProject\SalesWebApp\obj\Deb
 C:\Users\Elton Oliveira\Source\Repos\Luis22Ant\SellerProject\SalesWebApp\obj\Debug\netcoreapp2.1\SalesWebApp.RazorTargetAssemblyInfo.cs
 C:\Users\Elton Oliveira\Source\Repos\Luis22Ant\SellerProject\SalesWebApp\obj\Debug\netcoreapp2.1\SalesWebApp.Views.pdb
 C:\Users\Elton Oliveira\Source\Repos\Luis22Ant\SellerProject\SalesWebApp\obj\Debug\netcoreapp2.1\SalesWebApp.csproj.CopyComplete
+C:\Users\Elton Oliveira\Source\Repos\Luis22Ant\SellerProject\SalesWebApp\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Delete.g.cshtml.cs
